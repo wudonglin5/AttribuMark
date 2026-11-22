@@ -1,0 +1,1219 @@
+{
+  "input": "F:\\project\\beifen\\DiffMark-main\\results\\user_fingerprint_eval_30k_min11_probs.json",
+  "num_users": 100,
+  "images_per_user": 5,
+  "summary": {
+    "1": {
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 5.4012641714918574,
+        "median_true_z": 5.415626622680627,
+        "min_true_z": 5.169686459789538,
+        "mean_margin": 3.833878039862679,
+        "min_margin": 3.0147190130622152,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.4012641714918574,
+        "median_true_z": 5.415626622680627,
+        "min_true_z": 5.169686459789538,
+        "mean_margin": 3.833878039862679,
+        "min_margin": 3.0147190130622152,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "hard_vote": {
+        "top1": 1.0,
+        "exact_match": 0.96,
+        "mean_true_hamming": 0.04
+      }
+    },
+    "2": {
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 7.641299326332097,
+        "median_true_z": 7.645162889427346,
+        "min_true_z": 7.473684833152934,
+        "mean_margin": 5.465773991241402,
+        "min_margin": 4.870875586155246,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.378209087456141,
+        "median_true_z": 5.385113144027054,
+        "min_true_z": 5.183780207501481,
+        "mean_margin": 3.777704694104477,
+        "min_margin": 3.0880822689104686,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "hard_vote": {
+        "top1": 1.0,
+        "exact_match": 1.0,
+        "mean_true_hamming": 0.0
+      }
+    },
+    "3": {
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 9.356326260318504,
+        "median_true_z": 9.35960208784756,
+        "min_true_z": 9.175997013227903,
+        "mean_margin": 6.71638314793471,
+        "min_margin": 6.133137537271805,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.361017596372819,
+        "median_true_z": 5.3660045200671345,
+        "min_true_z": 5.165265329727624,
+        "mean_margin": 3.736051461850922,
+        "min_margin": 3.1363087906809795,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "hard_vote": {
+        "top1": 1.0,
+        "exact_match": 1.0,
+        "mean_true_hamming": 0.0
+      }
+    },
+    "4": {
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 10.798581808823842,
+        "median_true_z": 10.805010802213552,
+        "min_true_z": 10.65322581896457,
+        "mean_margin": 7.765120153070006,
+        "min_margin": 7.187854173363416,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "10.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.344964277240106,
+        "median_true_z": 5.355747965350325,
+        "min_true_z": 5.182419956448438,
+        "mean_margin": 3.70902444675951,
+        "min_margin": 3.0948868301016366,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "hard_vote": {
+        "top1": 1.0,
+        "exact_match": 1.0,
+        "mean_true_hamming": 0.0
+      }
+    },
+    "5": {
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 12.072639532059316,
+        "median_true_z": 12.077510673994613,
+        "min_true_z": 11.907586839503974,
+        "mean_margin": 8.689099702538151,
+        "min_margin": 8.110938745240508,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "10.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "12.0": {
+            "detect": 0.9,
+            "false_accuse": 0.0,
+            "abstain": 0.1,
+            "accused": 90
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.336069191984317,
+        "median_true_z": 5.3453954853840076,
+        "min_true_z": 5.178044638772977,
+        "mean_margin": 3.6866575375641424,
+        "min_margin": 3.2104594485667617,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "hard_vote": {
+        "top1": 1.0,
+        "exact_match": 1.0,
+        "mean_true_hamming": 0.0
+      }
+    }
+  },
+  "all_subsets": {
+    "1": {
+      "num_subsets": 5,
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 5.399467317200161,
+        "median_true_z": 5.406801368167887,
+        "min_true_z": 5.169686459789538,
+        "mean_margin": 3.8169761922392706,
+        "min_margin": 3.0147190130622152,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.399467317200161,
+        "median_true_z": 5.406801368167887,
+        "min_true_z": 5.169686459789538,
+        "mean_margin": 3.8169761922392706,
+        "min_margin": 3.0147190130622152,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      }
+    },
+    "2": {
+      "num_subsets": 10,
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 7.635626353389844,
+        "median_true_z": 7.642366250660155,
+        "min_true_z": 7.375154345361707,
+        "mean_margin": 5.455298240844994,
+        "min_margin": 4.778015818155025,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.373941378939649,
+        "median_true_z": 5.3811318230571175,
+        "min_true_z": 5.132810188994737,
+        "mean_margin": 3.764102325169382,
+        "min_margin": 3.081575424624003,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      }
+    },
+    "3": {
+      "num_subsets": 10,
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 9.351544798947412,
+        "median_true_z": 9.35847876330283,
+        "min_true_z": 9.122867565123219,
+        "mean_margin": 6.70719019713777,
+        "min_margin": 6.070674270518836,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.357493377056095,
+        "median_true_z": 5.365900780542766,
+        "min_true_z": 5.142230296260746,
+        "mean_margin": 3.732034645600996,
+        "min_margin": 3.1162250706477335,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 1000
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      }
+    },
+    "4": {
+      "num_subsets": 5,
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 10.79814821308169,
+        "median_true_z": 10.806088735811365,
+        "min_true_z": 10.603691577081053,
+        "mean_margin": 7.762767772823925,
+        "min_margin": 7.159886036322259,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "10.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.345470257823188,
+        "median_true_z": 5.355669057556291,
+        "min_true_z": 5.161022189755302,
+        "mean_margin": 3.7076504946543056,
+        "min_margin": 3.0948868301016366,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 500
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      }
+    },
+    "5": {
+      "num_subsets": 1,
+      "llr": {
+        "top1": 1.0,
+        "mean_true_z": 12.072639532059313,
+        "median_true_z": 12.077510673994611,
+        "min_true_z": 11.907586839503972,
+        "mean_margin": 8.689099702538151,
+        "min_margin": 8.110938745240507,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "7.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "8.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "10.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "12.0": {
+            "detect": 0.9,
+            "false_accuse": 0.0,
+            "abstain": 0.1,
+            "accused": 90
+          }
+        }
+      },
+      "mean_prob": {
+        "top1": 1.0,
+        "mean_true_z": 5.336069191984317,
+        "median_true_z": 5.3453954853840076,
+        "min_true_z": 5.178044638772977,
+        "mean_margin": 3.6866575375641424,
+        "min_margin": 3.2104594485667617,
+        "thresholds": {
+          "3.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "4.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "5.0": {
+            "detect": 1.0,
+            "false_accuse": 0.0,
+            "abstain": 0.0,
+            "accused": 100
+          },
+          "6.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "7.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "8.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "10.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          },
+          "12.0": {
+            "detect": 0.0,
+            "false_accuse": 0.0,
+            "abstain": 1.0,
+            "accused": 0
+          }
+        }
+      }
+    }
+  }
+}

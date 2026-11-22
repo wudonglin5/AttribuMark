@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+
+# Datasets (download separately)
+CelebA-HQ/
+FFHQ/
+*.parquet
+*.tfrecord
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tar
+*.safetensors
+*.bin
+
+# Run outputs
+logs/
+temp/
+visualization/
+results/**
+!results/*.json
